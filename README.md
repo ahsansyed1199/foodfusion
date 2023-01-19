@@ -1,4 +1,4 @@
-# FoodFUsion
+# FoodFusion
 
 This project is a personal project created by me to hone and practice my angular and typescript skills. FoodFusion is a recipebook, where users can log in their recipes which saves it to the backend created with the help of firebase.
 
