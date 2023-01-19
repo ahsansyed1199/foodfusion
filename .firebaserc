@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ng-course-recipe-book-b51fe",
+    "foodfusion": "ng-course-recipe-book-b51fe"
+  },
+  "targets": {},
+  "etags": {}
+}
